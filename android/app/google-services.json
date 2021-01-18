@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "250454309976",
+    "firebase_url": "https://quiz-maker-app-9262d.firebaseio.com",
+    "project_id": "quiz-maker-app-9262d",
+    "storage_bucket": "quiz-maker-app-9262d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250454309976:android:bec49c289bd8aac8dcde2d",
+        "android_client_info": {
+          "package_name": "com.maulikkhandelwal.quiz_maker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250454309976-kfo0lird60u31scs6ibjgdre43n3p264.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAES4VQkKVhvbTM7UerHvwlrzWL0n_ZsLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250454309976-kfo0lird60u31scs6ibjgdre43n3p264.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
